@@ -1,0 +1,15 @@
+2023-05-02 00:53:56,662  INFO [main] ebanking:15 - URL is opened
+2023-05-02 00:54:27,137  INFO [main] ebanking:18 - Enter username
+2023-05-02 00:54:31,245  INFO [main] ebanking:22 - Enter password
+2023-05-02 02:12:09,901  INFO [main] ebanking:15 - URL is opened
+2023-05-02 02:12:32,083  INFO [main] ebanking:18 - Enter username
+2023-05-02 02:12:37,422  INFO [main] ebanking:22 - Enter password
+2023-05-04 00:03:13,648  INFO [main] ebanking:14 - URL is opened
+2023-05-04 00:03:32,039  INFO [main] ebanking:17 - Enter username
+2023-05-04 00:03:36,127  INFO [main] ebanking:21 - Enter password
+2023-05-05 03:28:39,503  INFO [main] ebanking:15 - URL is opened
+2023-05-05 03:28:57,317  INFO [main] ebanking:18 - Enter username
+2023-05-05 03:28:57,666  INFO [main] ebanking:21 - Enter password
+2023-05-06 12:07:02,763  INFO [main] ebanking:15 - URL is opened
+2023-05-06 12:07:11,569  INFO [main] ebanking:18 - Enter username
+2023-05-06 12:07:12,135  INFO [main] ebanking:21 - Enter password
