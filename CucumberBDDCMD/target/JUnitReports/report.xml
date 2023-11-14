@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="3.705">
+    <testcase classname="login functionality test" name="Check login with credentials" time="0.693">
+        <system-out>
+            <![CDATA[Given user is on login page.................................................passed
+When user enters valid username and password................................passed
+And click on login button...................................................passed
+Then user is navigated to the home page.....................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="login functionality test" name="Check login with invalid credentials" time="0.015">
+        <system-out>
+            <![CDATA[Given user is on login page.................................................passed
+When user enters invalid username and password..............................passed
+And click on login button...................................................passed
+Then error message is displayed - Invalid Credentials.......................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
